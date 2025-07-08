@@ -10,10 +10,6 @@ Features
 
     Internet Speed Test: Measure your internet connection's performance with a built-in ping test and download speed test (in Mbps).
 
-Screenshots
-
-(Here, you can add screenshots of your app running on an Android device. You can drag and drop images directly into your README.md file on GitHub, or link them from an external source.)
-
 Technologies Used
 
     Kotlin: Primary programming language for Android development.
