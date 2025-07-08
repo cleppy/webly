@@ -43,4 +43,4 @@ Feel free to fork the repository, make improvements, and submit pull requests.
 
 License
 
-This project is open-source and available under the MIT License. (Or whichever license you chose when creating the repo)
+This project is open-source and available under the MIT License.
