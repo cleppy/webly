@@ -2,7 +2,8 @@ Webly Network Tool
 
 Webly is an Android application designed to provide essential network information and diagnostic tools for your device. Get insights into your local network, scan for connected devices, and measure your internet speed (ping and download).
 
-Here are some screenshots of the WatchList app:
+Here are some screenshots of the Webly app:
+
 <img src="screenshots/Screenshot_20250708_195158_webly.jpg" width="300"/> <img src="screenshots/Screenshot_20250708_195203_webly.jpg" width="300"/>
 
 Features
